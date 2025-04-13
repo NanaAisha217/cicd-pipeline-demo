@@ -1,1 +1,2 @@
-# CI/CD Demo
+# cicd-pipeline-demo
+This project is for demo purposes...
